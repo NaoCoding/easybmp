@@ -3,6 +3,9 @@
 `easybmp` is a python library for reading and writing BMP images. It is designed to be easy to use and provides a simple interface for reading and writing BMP files.
 
 [GitHub Repo](https://github.com/NaoCoding/easybmp)
+
+[Doc (GitHub Wiki)](https://github.com/NaoCoding/easybmp/wiki)
+
 [PyPI](https://pypi.org/project/easybmp)
 
 ## 📦 Installion

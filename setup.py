@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='easybmp',
-    version='0.0.4',
+    version='0.0.5',
     description='A Python library which can easily read / modify / compare / and other functions with .bmp files',
     installed_requires=['struct','argparse','sys'],
     long_description=long_description,
